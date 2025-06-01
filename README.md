@@ -27,5 +27,5 @@
 
 ## 📫 Connect With Me
 📧 sohaibalikhan599@gmail.com  
-📁 [Resume](https://drive.google.com/your-resume-link)
+📁 [Resume](https://drive.google.com/file/d/1-dijO4dzHwS37s2mkJwPKleUSJgNCFmV/view?usp=drive_link)
 
