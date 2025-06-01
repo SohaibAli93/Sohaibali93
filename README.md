@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Sohaib Ali Khan 👋
 
-<!--
-**SohaibAli93/Sohaibali93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Student at FAST NUCES (Graduating Fall 2026)  
+🛡️ Passionate about Ethical Hacking, Cryptography, and System Security  
+🧠 Lifelong Learner | Open Source Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+`Python` `C/C++` `Nmap` `Wireshark` `Nessus` `Burp Suite`  
+`OpenVAS` `PowerShell` `Bash` `Tkinter` `Socket Programming`
+
+
+---
+
+## 📜 Certifications
+- ✅ Google Entry-Level Cybersecurity
+- ✅ Google Advanced Cybersecurity
+
+---
+
+## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibalikhan599&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohaibalikhan599&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+📧 sohaibalikhan599@gmail.com  
+📁 [Resume](https://drive.google.com/your-resume-link)
+
