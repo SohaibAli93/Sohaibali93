@@ -36,8 +36,8 @@
 ---
 
 ## 📜 Certifications
-- ✅ Google Entry-Level Cybersecurity
-- ✅ Google Advanced Cybersecurity
+- ✅ ISO/IEC 27001:2022 INFORMATION SKILLFRONT SECURITY ASSOCIATE™
+- ✅ Certified Cybersecurity Educator Professional (CCEP)
 
 ---
 
