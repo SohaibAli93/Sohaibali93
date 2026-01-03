@@ -49,5 +49,5 @@
 
 ## 📫 Connect With Me
 📧 sohaibalikhan599@gmail.com  
-📁 ![Resume](https://drive.google.com/file/d/1xHm0_RKAd23CUQgk-v51NQ0J9TaFPVKh/view?usp=drive_link)
+📁 [View Resume](https://drive.google.com/file/d/1xHm0_RKAd23CUQgk-v51NQ9JTaFPVKh/view?usp=drive_link)
 
